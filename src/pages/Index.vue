@@ -1,9 +1,12 @@
 <template>
   <Layout>
-    <h1>Hello, world!</h1>
+    <h1>Hi, I'm Aaron</h1>
 
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur excepturi labore tempore expedita, et iste tenetur suscipit explicabo! Dolores, aperiam non officia eos quod asperiores
+      I'm a front end developer based in Surrey.
+    </p>
+    <p>
+      This is my new portfolio and personal site. <span class="sub">(It's very much a work in progress)</span>
     </p>
   </Layout>
 </template>
@@ -11,13 +14,13 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Aaron Baker - Front End Developer'
   }
 }
 </script>
 
 <style>
-.home-links a {
-  margin-right: 1rem;
+.sub {
+  font-size: 0.7em;
 }
 </style>
