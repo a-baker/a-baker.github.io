@@ -30,7 +30,9 @@ module.exports = {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
-      plugins: []
+      plugins: [
+        '@gridsome/remark-prismjs'
+      ]
     },
   },
 }
