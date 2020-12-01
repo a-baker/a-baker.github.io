@@ -9,7 +9,6 @@ This is an example of a blog post.
 
 * foo
 * bar
-* baz
 
 etc.
 
