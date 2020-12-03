@@ -1,6 +1,6 @@
 <template>
     <Layout>
-        <article>
+        <article class="container">
             <h1>{{ $page.post.title }}</h1>
             <div v-html="$page.post.content" />
         </article>
