@@ -19,7 +19,7 @@
     "netlify-cms": "^2.10.73"
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^10.1.0",
     "vue-svg-loader": "^0.16.0"
   }
